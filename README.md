@@ -8,4 +8,4 @@
 [![Linkedin: talshachar](https://img.shields.io/badge/talshachar-blue?logo=Linkedin&link=https://www.linkedin.com/in/talshachar)](https://www.linkedin.com/in/talshachar)
 [![Tal Shachar's GitHub](https://img.shields.io/github/followers/talshachar?label=follow&style=social)](https://github.com/talshachar)
 
-[![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=talshachar.talshachar)](#)
+[![Profile Visitors](https://badges.pufler.dev/visits/talshachar/talshachar?logo=github&color=333333)](#)
